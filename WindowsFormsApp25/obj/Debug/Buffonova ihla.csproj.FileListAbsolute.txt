@@ -1,0 +1,9 @@
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Form1.resources
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\Buffonova ihla.csproj.GenerateResource.cache
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.exe
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.pdb
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe.config
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.exe
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\WindowsFormsApp25.pdb
+C:\Users\Martin Sládeček\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\Buffonova ihla.csprojAssemblyReference.cache
